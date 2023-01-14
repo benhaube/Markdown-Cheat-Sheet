@@ -77,7 +77,7 @@ Use `insert code here` to create a code block.
 
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image in parenteses. You can also add a title for the image in quotation marks after the URL or path to the image. 
 
-![Tux, the Linux mascot.](/Images/tux.png "Tux")
+![Tux, the Linux mascot.](/tux.png "Tux")
 
 ## Horizontal Rules
 	To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves 
